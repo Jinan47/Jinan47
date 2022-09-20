@@ -18,7 +18,7 @@ https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/6874
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jinanmoussawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jinanmoussawy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/JinanMoussawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jinan moussawy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jinan-moussawy-2366ab250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jinan moussawy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/JinanMoussawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jinan al moussawy" height="30" width="40" /></a>
 <a href="https://instagram.com/jinanmswi47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jinanmswi47" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tech with jinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech with jinan" height="30" width="40" /></a>
