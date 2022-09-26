@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jinanmswi47@gmail.com**
 
-- ⚡ Fun fact **I have the highest grades in the whole school**
+- ⚡ Fun fact **I'm 12 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
