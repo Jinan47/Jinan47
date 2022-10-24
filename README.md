@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jinan</h1>
-<h3 align="center">An intermediate python programmer</h3>
+<h1 align="center">Jinan Al Moussawy</h1>
+<h3 align="center">An intermediate self taught python programmer</h3>
 <https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinan47&label=Profile%20views&color=0e75b6&style=flat" alt="jinan47" /> </p>
@@ -12,9 +12,8 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **jinanmswi47@gmail.com**
+- 📫 Contact me 👉 **jinanmswi47@gmail.com**
 
-- ⚡ Fun fact **I'm 12 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
