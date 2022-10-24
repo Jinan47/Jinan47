@@ -1,12 +1,12 @@
 <h1 align="center">Jinan Al Moussawy</h1>
 <h3 align="center">An intermediate self taught python programmer</h3>
-<https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinan47&label=Profile%20views&color=0e75b6&style=flat" alt="jinan47" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinan47" alt="jinan47" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jinanmoussawy" target="blank"><img src="https://img.shields.io/twitter/follow/jinanmoussawy?logo=twitter&style=for-the-badge" alt="jinanmoussawy" /></a> </p>
+
 
 - 🔭 I’m currently working on a Youtube API project
 
