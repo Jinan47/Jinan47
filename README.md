@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/jinanmoussawy" target="blank"><img src="https://img.shields.io/twitter/follow/jinanmoussawy?logo=twitter&style=for-the-badge" alt="jinanmoussawy" /></a> </p>
 
-- 🔭 I’m currently working on a [Password Manager](https://github.com/Jinan47/Passwords-Manager)
+- 🔭 I’m currently working on a Youtube API project
 
 - 🌱 I’m currently learning **python**
 
