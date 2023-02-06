@@ -1,5 +1,5 @@
 <h1 align="center">Jinan Al Moussawy</h1>
-<h3 align="center">Intermediate python developer, begginer software engineer</h3>
+<h3 align="center">Intermediate python developer, beginner java developer, beginner software engineer</h3>
 
 
 
