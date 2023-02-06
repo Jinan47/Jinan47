@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on a Youtube API project
+- 🔭 I’m currently working on an **andoid app**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Java**
 
 - 📫 Contact me 👉 **jinanmswi47@gmail.com**
 
