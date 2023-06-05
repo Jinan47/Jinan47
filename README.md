@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on an **andoid app**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 Contact me 👉 **jinanmswi47@gmail.com**
 
