@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on an **andoid app**
+- 🔭 I’m currently working on an **flutter development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Anything I can that benefits me**
 
 - 📫 Contact me 👉 **jinanmswi47@gmail.com**
 
