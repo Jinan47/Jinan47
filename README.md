@@ -31,7 +31,8 @@
 ---
 
 - Self-taught developer 👩🏻‍💻.
-- Strong background in Python and Java 👊🏻. 
+- Strong background in Python 👊🏻.
+- Moderate background in Java 🧬
 - Junior in the software engineering sphere 🧩. 
 - Honing my skills in object-oriented programming (OOP) 🎲. 
 - Venturing into the world of mobile app development using Flutter 🔷. 
