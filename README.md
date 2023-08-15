@@ -11,7 +11,7 @@
 [![Youtube](https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=YouTube)][youtube]
 [![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin)][linkedin]
 [![Medium](https://img.shields.io/badge/-Follow-black?style=for-the-badge&logo=Medium)][medium]
-[![Email](https://img.shields.io/badge/-Mail%20me-yellow?style=for-the-badge&logo=Gmail)][medium]
+[![Email](https://img.shields.io/badge/-Mail%20me-yellow?style=for-the-badge&logo=Gmail)][email]
 </h3>
 
 ---
