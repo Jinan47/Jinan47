@@ -1,5 +1,4 @@
-<h1 align="center"> Hi, I'm Jinan Al Moussawy!</h1>
-<h3 align="center">I'm a code sorcerer crafting digital wonders in the realm of software development 🔮</h3>
+<h2 align="center">I'm a code sorcerer crafting digital wonders in the realm of software development 🔮</h2>
 
 ---
 
