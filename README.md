@@ -30,7 +30,8 @@
   <a href="https://www.w3schools.com/html/"><img alt="HTML" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/></a>
   <a href="https://www.java.com/"><img alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></a>
-  <a href="https://postman.com/"><img alt="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
+  <a href="https://postman.com/"><img alt="Post Man" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
+  <a href="https://developers.google.com/"><img alt="Google Developers" width="26px" src="https://www.svgrepo.com/show/353810/google-developers.svg"/></a>
   <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 </p>
 
