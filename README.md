@@ -47,7 +47,7 @@
 - Junior in the software engineering sphere 🧩. 
 - Honing my skills in object-oriented programming (OOP) 🎲. 
 - Venturing into the world of mobile app development using Flutter 🔷. 
-- This year finds me in the 8th grade 🎓. 
+- This year finds me in the *9th* grade 🎓. 
 - Showcasing my dedication to technology and coding pursuits ✨.
 <br />
 
